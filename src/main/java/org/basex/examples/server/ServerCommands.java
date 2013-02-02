@@ -1,5 +1,5 @@
 package org.basex.examples.server;
-
+test
 import org.basex.*;
 import org.basex.core.*;
 import org.basex.core.cmd.*;
